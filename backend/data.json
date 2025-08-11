@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {"id":"all","name":"小汉堡","emoji":"🍔"},
+    {"id":"beef","name":"牛肉汉堡","emoji":"🥩"},
+    {"id":"chicken","name":"鸡肉汉堡","emoji":"🍗"},
+    {"id":"combo","name":"超值套餐","emoji":"🍱"},
+    {"id":"special","name":"特色肉卷","emoji":"🌯"},
+    {"id":"sides","name":"小食","emoji":"🍟"}
+  ],
+  "items": [
+    {"id":1,"cat":"all","title":"叔叔汉堡","desc":"多层牛肉饼 + 芝士 + 新鲜蔬菜","price":15,"old":18,"tag":"10+回头客推荐","image":"/images/burger1.jpg"},
+    {"id":2,"cat":"beef","title":"小牛肉汉堡","desc":"店内热销，口感嫩滑","price":7.9,"old":12,"tag":"门店销量第3名","image":"/images/burger2.jpg"},
+    {"id":3,"cat":"chicken","title":"小奥尔良鸡肉汉堡","desc":"鸡腿肉腌制烤制，香辣适中","price":9.9,"old":12.5,"tag":"10+回头客推荐","image":"/images/burger3.jpg"},
+    {"id":4,"cat":"combo","title":"超值双人套餐","desc":"两份主食 + 两份饮料","price":39.9,"old":56,"tag":"超值","image":"/images/combo.jpg"},
+    {"id":5,"cat":"special","title":"特色肉卷","desc":"手工卷饼，独特风味","price":12.5,"old":15,"tag":"新品","image":"/images/roll.jpg"},
+    {"id":6,"cat":"sides","title":"薯条小份","desc":"外脆里软","price":4.9,"old":6.5,"tag":"热卖","image":"/images/fries.jpg"}
+  ],
+  "promo": {
+    "title":"可口可乐300ML瓶",
+    "price":"¥2",
+    "subtitle":"用券享6.67折 · 2025.08.01过期",
+    "image":"/images/coke.jpg"
+  }
+}
